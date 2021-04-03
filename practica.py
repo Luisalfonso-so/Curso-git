@@ -11,5 +11,6 @@ elif edad<18:
     ask=input('¿Quieres continuar?: ')
     if ask==si:
         print('Bienvenido',nombre)
+        print(':)')
     else:
         input('Presiona enter para salir.')
